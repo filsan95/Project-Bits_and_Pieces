@@ -1,0 +1,1 @@
+<p>This repository exhibits a compilation of fun and random excercise building projects. These projects are intended to strengthen my understanding of data science, and are developed for one reason only, to satiate my curiousities.</p>
